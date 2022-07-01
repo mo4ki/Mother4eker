@@ -6,7 +6,7 @@ i=0
 math = random.randint(1, 2)
 
 while i<=100:
-    i = i + random.randint(1,12)
+    i = i + random.randint(1,20)
     print(f"Чекаем твою мать... ({str(i)}%)")
     sl(0.5)
 
